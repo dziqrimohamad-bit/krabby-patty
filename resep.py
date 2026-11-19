@@ -1,0 +1,7 @@
+print("Resep krabby patty")
+print("-------------------")
+print("1. Bawang")
+print("2. Ketimun")
+print("3. patty")
+print("4. saos tomat")
+print("5. mayo")
